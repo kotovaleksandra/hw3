@@ -16,5 +16,5 @@
 Ссылка на отсортированную по количественному признаку таблицу с построенными графиками:
 https://docs.google.com/spreadsheets/d/1Rrpxb6x-T8vtk2gw1y0GDe92gfVpaO4ZxHPQ0nTRLpU/edit#gid=1384238165
 
-ССылка на таблицу в pdf формате :
-https://vk.com/doc293132414_460711231?hash=c055fda31201979f69&dl=c10e07c4070338a185
+Ссылка на таблицу в pdf формате :
+file:///C:/Users/Александра/Desktop/resulted.pdf
