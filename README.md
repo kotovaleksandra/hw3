@@ -3,7 +3,7 @@
 
 В данном опросе приняло участие 20 человек. 
 Целью опроса было выявить отношение людей к пассажирским авиаперевозкам. 
-Проанализировать резистивность опрошенных к аргументированной и не аргументированной точке зрения.
+Проанализировать резистивность опрошенных к аргументированной и не аргументированной оппозиционной точкам зрения.
 
 Таблица : https://docs.google.com/spreadsheets/d/1dJyCKx3EDORnfhocbi4ROxf7dvg1xh2A6TUhYb_RFrw/edit#gid=1283254597
 
@@ -17,4 +17,4 @@
 https://docs.google.com/spreadsheets/d/1Rrpxb6x-T8vtk2gw1y0GDe92gfVpaO4ZxHPQ0nTRLpU/edit#gid=1384238165
 
 Ссылка на таблицу в pdf формате :
-file:///C:/Users/Александра/Desktop/resulted.pdf
+file:///C:/Users/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0/Desktop/resulted.pdf
